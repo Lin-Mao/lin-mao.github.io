@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## BackUp
 
-You can use the [editor on GitHub](https://github.com/Lin-Mao/lin-mao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### tampermonkey配置文件	[(点击下载)](https://github.com/linmaodev/linmaodev.github.io/releases/download/file/tampermonkey-backup-chrome-2020-05-10T09-52-57-070Z.zip)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### stylus配置	[(点击下载)](https://github.com/linmaodev/linmaodev.github.io/releases/download/file/stylus-2020-05-10.json)
 
-```markdown
-Syntax highlighted code block
+### sublime设置	[(点击下载)](https://github.com/linmaodev/linmaodev.github.io/releases/download/file/sublime_settings.json)
 
-# Header 1
-## Header 2
-### Header 3
+### switchyomega chrome插件	[(点击下载)](https://github.com/linmaodev/linmaodev.github.io/releases/download/file/SwitchyOmega_Chromium.crx)
 
-- Bulleted
-- List
+### proxy switch规则列表	[(点击下载)](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt)
 
-1. Numbered
-2. List
+### Igniter.apk	[(点击下载)](https://github.com/linmaodev/linmaodev.github.io/releases/download/file/Igniter.apk)
 
-**Bold** and _Italic_ and `Code` text
+### SSRR.apk	[(点击下载)](https://github.com/linmaodev/linmaodev.github.io/releases/download/file/SSRR.apk)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lin-Mao/lin-mao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### dux6.0 theme	[(点击下载)](https://github.com/linmaodev/linmaodev.github.io/releases/download/file/dux6.0.zip)
