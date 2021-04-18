@@ -1,24 +1,26 @@
-# BackUp
+# Backups
 
 ---
 
-## dux6.0 theme	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak/dux6.0.zip)
+## CS6 Patches	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak1.0/cs6.patches.zip)
 
-## GoGoogleInstaller	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak/GoGoogleInstaller.apk)
+## Dux6.0 theme	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak1.0/dux6.0.zip)
 
-## Igniter.apk	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak/Igniter.apk)
+## GoGoogleInstaller	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak1.0/Google.Installer_v3.0.apk)
 
-## KMSpico Portable	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak/KMSpico+v10.1.6+Portable.7z)
+## Igniter.apk	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak1.0/Igniter.apk)
 
-## proxy switch规则列表	[(点击下载)](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt)
+## KMSpico Portable	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak1.0/KMSpico.v10.1.6.Portable.7z.zip)
 
-## SSRR.apk	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak/SSRR.apk)
+## Proxy Switch Rules	[(点击下载)](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt)
 
-## stylus配置	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak/stylus-2020-05-15.json)
+## SSRR.apk	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak1.0/SSRR.apk)
 
-## sublime设置	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak/sublime_settings.json)
+## Stylus Config Files	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak1.0/stylus-2021-04-18.json)
 
-## switchyomega chrome插件	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak/SwitchyOmega_Chromium.crx)
+## Sublime Settings	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak1.0/sublime-settings.json)
 
-## tampermonkey配置文件	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak/tampermonkey-backup-chrome-2020-05-10T09-52-57-070Z.zip)
+## SwitchyOmega Chrome Extension	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak1.0/SwitchyOmega_Chromium.crx)
+
+## Tampermonkey Config Files	[(点击下载)](https://github.com/Lin-Mao/lin-mao.github.io/releases/download/bak1.0/tampermonkey-backup-chrome-2021-04-18T06-15-46-381Z.zip)
 
